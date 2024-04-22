@@ -1,3 +1,6 @@
+# DEPRECATED
+New repository location: [https://github.com/konflux-ci/sprayproxy](https://github.com/konflux-ci/sprayproxy).
+
 # Spray Proxy
 
 A very simple reverse proxy that broadcasts to multiple backends.
